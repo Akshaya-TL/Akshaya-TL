@@ -1,3 +1,4 @@
+[![HitCount](https://hits.dwyl.com/Akshaya-TL/Akshaya-TL.svg?style=flat-square)](http://hits.dwyl.com/Akshaya-TL/Akshaya-TL)
 ### 👋 Hey there! I'm Akshaya
 
 - 💡  I like to explore new technologies and develop software solutions and quick hacks.
